@@ -323,12 +323,12 @@
     width: 340px;
   }
 }.u-section-7 .u-sheet-1 {
-  min-height: 125px;
+  min-height: 177px;
 }
 
 .u-section-7 .u-text-1 {
   font-weight: 900;
-  margin: 63px 20px 10px;
+  margin: 63px 20px 60px;
 }
 
 @media (max-width: 1199px) {
@@ -337,67 +337,229 @@
     margin-right: 0;
   }
 }.u-section-8 .u-sheet-1 {
-  min-height: 369px;
+  min-height: 381px;
 }
 
 .u-section-8 .u-text-1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 118px 306px 0 154px;
+}
+
+.u-section-8 .u-text-2 {
+  margin: -25px 55px 0 906px;
+}
+
+.u-section-8 .u-text-3 {
+  line-height: 1.8;
+  margin: 10px 306px 0 154px;
+}
+
+.u-section-8 .u-text-4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 20px 274px 0 154px;
+}
+
+.u-section-8 .u-text-5 {
+  margin: -29px 55px 0 906px;
+}
+
+.u-section-8 .u-text-6 {
+  line-height: 1.8;
+  margin: 24px 306px 60px 154px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-text-1 {
+    width: 680px;
+    margin-left: 54px;
+    margin-right: 206px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-right: 0;
+    margin-left: 761px;
+  }
+
+  .u-section-8 .u-text-3 {
+    width: 680px;
+    margin-left: 54px;
+    margin-right: 206px;
+  }
+
+  .u-section-8 .u-text-4 {
+    width: 680px;
+    margin-left: 54px;
+    margin-right: 174px;
+  }
+
+  .u-section-8 .u-text-5 {
+    margin-right: 0;
+    margin-left: 761px;
+  }
+
+  .u-section-8 .u-text-6 {
+    margin-right: 206px;
+    margin-left: 54px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-text-1 {
+    margin-left: 0;
+    margin-right: 40px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-left: 541px;
+  }
+
+  .u-section-8 .u-text-3 {
+    margin-left: 0;
+    margin-right: 40px;
+  }
+
+  .u-section-8 .u-text-4 {
+    margin-left: 0;
+    margin-right: 8px;
+  }
+
+  .u-section-8 .u-text-5 {
+    margin-left: 541px;
+  }
+
+  .u-section-8 .u-text-6 {
+    margin-right: 40px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-text-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-left: 361px;
+  }
+
+  .u-section-8 .u-text-3 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-text-4 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-text-5 {
+    margin-left: 361px;
+  }
+
+  .u-section-8 .u-text-6 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-left: 161px;
+  }
+
+  .u-section-8 .u-text-3 {
+    width: 340px;
+  }
+
+  .u-section-8 .u-text-4 {
+    width: 340px;
+  }
+
+  .u-section-8 .u-text-5 {
+    margin-left: 161px;
+  }
+}.u-section-9 .u-sheet-1 {
+  min-height: 125px;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 900;
+  margin: 63px 20px 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}.u-section-10 .u-sheet-1 {
+  min-height: 376px;
+}
+
+.u-section-10 .u-text-1 {
   width: 680px;
-  margin: 70px auto 60px;
+  margin: 40px auto 60px;
 }
 
-.u-section-8 .u-btn-1 {
+.u-section-10 .u-btn-1 {
   padding: 0;
 }
 
-.u-section-8 .u-btn-1 {
+.u-section-10 .u-btn-1 {
   padding: 0;
 }
 
-.u-section-8 .u-btn-3 {
+.u-section-10 .u-btn-3 {
   font-size: 1.25rem;
   font-weight: 700;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-8 .u-text-1 {
+  .u-section-10 .u-text-1 {
     line-height: 25.6px;
   }
 
-  .u-section-8 .u-btn-1 {
+  .u-section-10 .u-btn-1 {
     width: 425px;
     height: 22px;
   }
 
-  .u-section-8 .u-btn-1 {
+  .u-section-10 .u-btn-1 {
     width: 425px;
     height: 22px;
   }
 
-  .u-section-8 .u-btn-3 {
+  .u-section-10 .u-btn-3 {
     width: 52px;
     height: 27px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-8 .u-sheet-1 {
+  .u-section-10 .u-sheet-1 {
     min-height: 260px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-8 .u-sheet-1 {
-    min-height: 369px;
+  .u-section-10 .u-sheet-1 {
+    min-height: 376px;
   }
 
-  .u-section-8 .u-text-1 {
+  .u-section-10 .u-text-1 {
     width: 540px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-8 .u-text-1 {
+  .u-section-10 .u-text-1 {
     width: 340px;
   }
 }
